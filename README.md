@@ -23,15 +23,25 @@ We help all coders around kerala to contribute in flow and to build a collabrati
 Our ultimate goal is contribute to Mozilla Products, Mozilla Kerala and other open source projects. To reach this goal, we have to achieve many internal goals that will help us to collabarate with eachother at the best team chemistry. 
 
 **Sub Goals**
-- [ ] Create Standard Operating Procedures for the working of team, thus achieve a structure inside the team.
-- [ ] Concentrate on technologies that majority are skilled on
-- [ ] Sort the right person for the right job
-- [ ] Conduct an online 1 hour meeting every weekend
+- Create Standard Operating Procedures for the working of team, thus achieve a structure inside the team.
+- Concentrate on technologies that majority are skilled on
+- Sort the right person for the right job
+- Conduct an online 1 hour meeting every weekend
   - State problems faced by memebers & resolve it
   - Assign new task to teams
   - Document the meeting
   - Schedule next meeting
-- [ ] Find small open source projects to contribute at beginning
+- Find small open source projects to contribute at beginning
+
+## Strategic Objectives
+
+- [ ] Finish team documentation before 15th of january 2015.
+- [ ] Create project pool and start with a most voated project from pool.
+- [ ] Complete the first project before july end and evaluate team performance.
+- [ ] Refore team with neccessary changes after analysis.
+- [ ] Take next project and finish it by next New Year.
+- [ ] Analyse team progress by evaluating previous projects.
+- [ ] Expand team if expected level of collabration is achieved.
 
 ## Members
 
