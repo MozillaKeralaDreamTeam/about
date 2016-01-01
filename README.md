@@ -2,9 +2,25 @@
 <a href="http://MozillaKeralaDreamTeam.github.io/about"><img alt="MKDT logo" src="https://raw.githubusercontent.com/MozillaKeralaDreamTeam/about/master/logo.jpg" title="Mozilla Kerala Dream Team"/></a>
 </h1>
 
+## Who are we?
+
+We are a group of mozillians who love to code for open source projects and work for mozilla.
+
+## What do we do?
+
+As we are part of Mozilla Kerala, we are ready to take up any project that the community assign us to do. As Mozillian, we will be contributing to Mozilla Products and its related apps. We will be commited to any open source project that need help or interest from the team members.
+
+## What is our mission?
+
+We are on the mission to increase contribution to Mozilla and Open Source Softwares as code.
+
+## What is our vision?
+
+We help all coders around kerala to contribute in flow and to build a collabrative team of coders.
+
 ## Goal
 
-Our ultimate goal is contribute to Mozilla Products. To reach this goal, we have to achieve many internal goals that will help us to collabarate with eachother at the best team chemistry. 
+Our ultimate goal is contribute to Mozilla Products, Mozilla Kerala and other open source projects. To reach this goal, we have to achieve many internal goals that will help us to collabarate with eachother at the best team chemistry. 
 
 **Sub Goals**
 - [ ] Create Standard Operating Procedures for the working of team, thus achieve a structure inside the team.
