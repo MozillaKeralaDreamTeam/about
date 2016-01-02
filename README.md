@@ -16,7 +16,7 @@ We are on the mission to increase code contribution to Mozilla and Open Source S
 
 ## What is our vision?
 
-We help all coders around kerala to contribute in flow and to build a collaborative team of coders.
+We help coders in kerala to contribute more to open source and build a collaborative team of doers.
 
 ## Goal
 
