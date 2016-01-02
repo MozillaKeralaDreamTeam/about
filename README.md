@@ -4,15 +4,15 @@
 
 ## Who are we?
 
-We are a group of mozillians who love to code for open source projects and work for mozilla.
+We are a group of Mozillians who love to code for open source projects and work for Mozilla.
 
 ## What do we do?
 
-As we are part of Mozilla Kerala, we are ready to take up any project that the community assign us to do. As Mozillian, we will be contributing to Mozilla Products and its related apps. We will be committed to any open source project that need help or interest from the team members.
+As we are part of Mozilla Kerala, we are ready to take up any project that the community assign us to do. As Mozillians, we will be contributing to Mozilla products and its related apps. We will be committed to any open source projects that need help or interest from the team members.
 
 ## What is our mission?
 
-We are on the mission to increase contribution to Mozilla and Open Source Software as code.
+We are on the mission to increase code contribution to Mozilla and Open Source Software.
 
 ## What is our vision?
 
@@ -20,24 +20,24 @@ We help all coders around kerala to contribute in flow and to build a collaborat
 
 ## Goal
 
-Our ultimate goal is contribute to Mozilla Products, Mozilla Kerala and other open source projects. To reach this goal, we have to achieve many internal goals that will help us to collaborate with each other at the best team chemistry. 
+Our ultimate goal is contribute to Mozilla Products, Mozilla Kerala and other open source projects. To reach this goal, we have to achieve many internal goals that will help us to collaborate with each other with the best team chemistry. 
 
 **Sub Goals**
 
-- Create Standard Operating Procedures for the working of team, thus achieve a structure inside the team.
-- Concentrate on technologies that majority are skilled on
-- Sort the right person for the right job
-- Conduct an online 1 hour meeting every weekend
-  - State problems faced by members & resolve it
-  - Assign new task to teams
-  - Document the meeting
-  - Schedule next meeting
-- Find small open source projects to contribute at beginning
+- Create Standard Operating Procedures for the working of the team and thus achieve a structure inside the team.
+- Concentrate on technologies that majority are skilled in.
+- Sort the right person for the right job.
+- Conduct an online one hour meeting every weekend.
+  - State problems faced by members & resolve it.
+  - Assign new tasks to teams.
+  - Document the meeting.
+  - Schedule next meeting.
+- Find small open source projects to contribute at beginning.
 
 ## Strategic Objectives
 
-- [ ] Finish team documentation before 15th of January 2016.
-- [ ] Create project pool and start with a most voted project from pool.
+- [ ] Finish team documentation before the 15th of January 2016.
+- [ ] Create a project pool and start with the most voted project from the pool.
 - [ ] Complete the first project before July 2016 end and evaluate team performance.
 - [ ] Reform team with necessary changes after analysis.
 - [ ] Take next project and finish it by next New Year.
