@@ -36,9 +36,9 @@ Our ultimate goal is contribute to Mozilla Products, Mozilla Kerala and other op
 
 ## Strategic Objectives
 
-- [ ] Finish team documentation before 15th of January 2015.
+- [ ] Finish team documentation before 15th of January 2016.
 - [ ] Create project pool and start with a most voted project from pool.
-- [ ] Complete the first project before July 2015 end and evaluate team performance.
+- [ ] Complete the first project before July 2016 end and evaluate team performance.
 - [ ] Reform team with necessary changes after analysis.
 - [ ] Take next project and finish it by next New Year.
 - [ ] Analyze team progress by evaluating previous projects.
